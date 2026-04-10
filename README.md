@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kayalvili  
 
-💡 **Aspiring Data Analyst | Python | SQL | Excel | Data Visualization**
+💡 **Data Analyst | Python | SQL | Excel | Data Visualization**
 
 I am passionate about transforming raw data into meaningful insights that support strategic decision-making. My projects focus on **data analysis, visualization, and business intelligence** across different domains.
 
